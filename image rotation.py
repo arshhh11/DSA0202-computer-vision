@@ -2,7 +2,7 @@
 import cv2
 
 
-path = r"C:/Users/mohammed rafik m/OneDrive/Pictures\Saved Pictures/WhatsApp Image 2022-03-18 at 6.54.12 AM.jpeg"
+path = r"C:\Users\Asus-2022\Downloads\cv.jpg"
 
 
 src = cv2.imread(path)
